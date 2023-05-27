@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.16.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.1",
+    "libraryName": "sp-http-card-format",
+    "libraryId": "fd0822fa-094a-4179-9cae-3bddab7977c5",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sp-http-card-format",
+    "solutionShortDescription": "sp-http-card-format description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

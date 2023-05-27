@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-http-card-format-client-side-solution",
+    "id": "fd0822fa-094a-4179-9cae-3bddab7977c5",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sp-http-card-format description"
+      },
+      "longDescription": {
+        "default": "sp-http-card-format description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-http-card-format Feature",
+        "description": "The feature that activates elements of the sp-http-card-format solution.",
+        "id": "85a8a77e-5839-409d-818c-a2f5a45cac90",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-http-card-format.sppkg"
+  }
+}
